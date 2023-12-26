@@ -1,0 +1,7 @@
+Package: precreater
+Version: 0.1
+Imports: CAGEfightR (>= 1.18.0), AnnotationDbi (>= 1.60.2), GenomicFeatures (>= 1.50.4), tidyverse (>= 2.0.0), tools, assertthat, caTools, Matrix
+Author: Natsuda Navamajiti [aut, cre], Robin [aut], Robert [ctb]
+Maintainer: Natsuda Navamajiti <natsuda@bio.ku.dk>
+License: file LICENSE
+RoxygenNote: 7.2.3
